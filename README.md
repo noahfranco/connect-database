@@ -1,9 +1,11 @@
 *** Step one ***
+
 Download pgAdmin: https://www.pgadmin.org/download/
 
 Notes: Make sure to remamber the password you input during the dowloading process beacuse that's the password you are going to use to access the database.
 
 *** Step Two ***
+
 Assuming you've already created an `knexfile.js` make sure your `connection` looks like the code below
 
 		connection: {
