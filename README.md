@@ -26,7 +26,7 @@ Create a `.env` file like below
 
 Start server: `npm run server`
 
-* if working locally *
+* if working locally 
 
 Migrate data to base migration: `npx knex migrate:rollback`  
 
